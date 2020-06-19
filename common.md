@@ -34,7 +34,7 @@
 
 #### 云盘快照详情页
 
-![image](/images/usnap3.png)
+![image](/images/usnap4.png)
 
 云盘快照详情页，主要展示该云盘快照的详细信息，您可以进行如下操作：
 
