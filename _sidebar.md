@@ -1,4 +1,4 @@
-<div>磁盘快照服务 USnap</div>
+<div class="sidebar_title">磁盘快照服务 USnap</div>
 
 * [产品简介](/usnap/README)
 * [应用场景](/usnap/application)
