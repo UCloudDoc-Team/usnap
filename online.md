@@ -52,7 +52,7 @@
   </tr>
   
   <tr>
-    <td rowspan="3"> 亚太 </td>
+    <td rowspan="4"> 亚太 </td>
     <td> 新加坡可用区A </td>
   </tr>
   <tr>
