@@ -44,7 +44,7 @@
   </tr> 
   
   <tr>
-    <td rowspan="3"> 欧洲、中东及非洲 </td>
+    <td rowspan="4"> 欧洲、中东及非洲 </td>
     <td> 法兰克福可用区A </td>
   </tr>
   <tr>
@@ -52,6 +52,9 @@
   </tr>
   <tr>
     <td> 伦敦可用区A </td>
+  </tr>
+  <tr>
+    <td> 莫斯科可用区A </td>
   </tr>
   
   <tr>
