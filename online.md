@@ -7,51 +7,51 @@
   </tr>
   <tr>
     <td rowspan="12"> 大陆、港澳台 </td>
-    <td> 华北一可用区B </td>
+    <td> 华北（北京2）可用区B </td>
   </tr>
   <tr>
-    <td> 华北一可用区C </td>
+    <td> 华北（北京2）可用区C </td>
   </tr>
   <tr>
-    <td> 华北一可用区D </td>
+    <td> 华北（北京2） 可用区D </td>
   </tr>
   <tr>
-    <td> 华北一可用区E </td>
+    <td> 华北（北京2）可用区E </td>
   </tr>
   <tr>
-    <td> 华北二可用区A </td>
+    <td> 华北（乌兰察布）可用区A </td>
   </tr>
   <tr>
-    <td> 上海二可用区A </td>
+    <td> 华东（上海2）可用区A </td>
   </tr>
   <tr>
-    <td> 上海二可用区B </td>
+    <td> 华东（上海2）可用区B </td>
   </tr>
   <tr>
-    <td> 上海二可用区C </td>
+    <td> 华东（上海2）可用区C </td>
   </tr>
   <tr>
-    <td> 上海金融云可用区A </td>
+    <td> 金融云-华东（上海）可用区A </td>
   </tr>
   <tr>
-    <td> 广州可用区B </td>
+    <td> 华南（广州）可用区B </td>
   </tr>
   <tr>
     <td> 香港可用区B </td>
   </tr>  
   <tr>
-    <td> 台北可用区A </td>
+    <td> 台湾（台北）可用区A </td>
   </tr> 
   
   <tr>
     <td rowspan="3"> 欧洲、中东及非洲 </td>
-    <td> 法兰克福可用区A </td>
+    <td> 德国（法兰克福）可用区A </td>
   </tr>
   <tr>
-    <td> 拉各斯可用区A </td>
+    <td> 尼日利亚（拉各斯）可用区A </td>
   </tr>
   <tr>
-    <td> 伦敦可用区A </td>
+    <td> 英国（伦敦）可用区A </td>
   </tr>
   
   <tr>
@@ -62,7 +62,7 @@
     <td> 新加坡可用区B </td>
   </tr>
   <tr>
-    <td> 孟买可用区A </td>
+    <td> 印度（孟买）可用区A </td>
   </tr>
   <tr>
     <td> 胡志明可用区A </td>
@@ -70,10 +70,10 @@
   
   <tr>
     <td rowspan="2"> 美洲 </td>
-    <td> 华盛顿可用区A </td>
+    <td> 美国（华盛顿）可用区A </td>
   </tr>
   <tr>
-    <td> 洛杉矶可用区A </td>
+    <td> 美国（洛杉矶）可用区A </td>
   </tr>
 </table>
 
